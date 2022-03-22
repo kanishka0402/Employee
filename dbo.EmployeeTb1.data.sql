@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[EmployeeTb1] ([EmpId], [EmpName], [EmpAdd], [EmpPos], [EmpDOB], [EmpPhone], [EmpEdu], [EmpGen]) VALUES (N'XYZ001', N'kumar', N'indira nagar', N'Junior Developer', N'21-03-1999 00:00:00', N'234567891', N'MTech', N'Male')
